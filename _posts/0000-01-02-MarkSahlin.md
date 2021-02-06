@@ -2,7 +2,7 @@
 
 layout: slide
 
-title: "Welcome to our second slide!"
+title: "Marks slide showing his favorite sports teams!"
 
 ---
 
@@ -11,3 +11,4 @@ USC Trojans
 Chciago Bears
 Chicago Blackhawks
 
+The end - fin in French
